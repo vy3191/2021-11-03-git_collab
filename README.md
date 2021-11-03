@@ -17,3 +17,5 @@
 2.2 many commits in the same PR confirmed with the git --graph locally.
 2.3 Git stash: makes a temp commit with current changes
     git stash pop takes the last stash and re-applies it.
+
+--------------------------------------------------------------

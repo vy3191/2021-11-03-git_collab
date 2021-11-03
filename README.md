@@ -19,3 +19,6 @@
     git stash pop takes the last stash and re-applies it.
 
 --------------------------------------------------------------
+git fetch --prune
+git branch -d <branch_name>: delete the branch, will fail if branch is not merged.
+git branch -D <branch_name>: delete the branch even if not merged.

@@ -10,4 +10,6 @@
 5. git checkout <name> - older way to switch.
 -----------------------------------------------
 1. git log --oneline --graph --all: shows you the git log wih all the branches and histroy.
+1.1 git switch -c: create and switch to the branch in a single step.
+1.2 git branch -b: older way of doing the above.
 2. pull request: (aka merge request), doing a merge on the remote(ex. Github)

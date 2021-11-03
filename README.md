@@ -2,7 +2,7 @@
 1. Edit the readme.md file
 2. Mention define git clone
 3. add the changes to the stagin area
--------------------------------------
+---------------------------------------------
 1. git clone
 2. git branch - git branch <name> -- <name> where is HEAD IS
 3. git branch - a: shows all your branches, including the remote.
@@ -13,4 +13,5 @@
 1.1 git switch -c: create and switch to the branch in a single step.
 1.2 git branch -b: older way of doing the above.
 2. pull request: (aka merge request), doing a merge on the remote(ex. Github)
-2.1  PR will auto update if with new commits in the same branch
+2.1  PR will auto update with many commits
+-----------------------------------------------

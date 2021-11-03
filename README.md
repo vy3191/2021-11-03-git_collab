@@ -26,5 +26,5 @@ git hub rules.
 -------------------------------------------
 need learning checkpick here and hre
 merge conflishes
-git check-pick <has>
+git check-pick <hash>: moves hash to current location(like a copy)
 second commign being added.

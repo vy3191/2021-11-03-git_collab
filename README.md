@@ -13,5 +13,9 @@
 1.1 git switch -c: create and switch to the branch in a single step.
 1.2 git branch -b: older way of doing the above.
 2. pull request: (aka merge request), doing a merge on the remote(ex. Github)
-2.1  PR will auto update with many commits
------------------------------------------------
+2.1  PR will, by default, auto update if with new commits in the same branch, yes agree.
+2.2 many commits in the same PR confirmed with the git --graph locally.
+2.3 Git stash: makes a temp commit with current changes
+    git stash pop takes the last stash and re-applies it.
+
+--------------------------------------------------------------

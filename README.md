@@ -23,3 +23,7 @@ git fetch --prune
 git branch -d <branch_name>: delete the branch, will fail if branch is not merged.
 git branch -D <branch_name>: delete the branch even if not merged.
 git hub rules.
+-------------------------------------------
+need learning checkpick here and hre
+merge conflishes
+git check-pick <has>

@@ -27,3 +27,4 @@ git hub rules.
 need learning checkpick here and hre
 merge conflishes
 git check-pick <has>
+second commign being added.
